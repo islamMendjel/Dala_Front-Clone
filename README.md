@@ -1,11 +1,5 @@
 <div align="center">
 
-> **📹 Preview**
-
-https://github.com/islamMendjel/Dala_Front-Clone/assets/preview/Dala-preview.mp4
-
-<br/>
-
 <img src="https://dala.craftedbygc.com/images/favicons/favicon-32x32.png" width="32" alt="Dala logo" />
 
 # Dala — Front-End Clone
@@ -17,6 +11,18 @@ A pixel-faithful, fully animated recreation of the [Dala](https://dala.craftedby
 [![Built with Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-r132-black?style=for-the-badge&logo=threedotjs)](https://threejs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.x-88CE02?style=for-the-badge)](https://gsap.com/)
+
+</div>
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="./preview.gif" alt="Dala Clone Preview" width="100%" />
+
+> *[Live Demo](https://dala-clone.space-z.ai)*
 
 </div>
 
