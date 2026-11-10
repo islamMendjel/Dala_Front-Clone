@@ -1,0 +1,25 @@
+# Build & Dependencies
+node_modules/
+dist/
+verification/
+
+# Heavy Media & AI Agent Scratch Files
+Dala-preview.mp4
+Dala-Description.txt
+Dala.html
+PROMPT.md
+PROGRESS.md
+DESIGN.md
+tokens.json
+theme.css
+variables.css
+decompiled_specs/
+agent_assets/*.png
+agent_assets/*.mp4
+
+# Unneeded / Unminified Dala_files bloat (keep only style.css, vendor.js, manifest.js, theme.js, and images)
+Dala_files/theme.readable.js
+Dala_files/array.js
+Dala_files/ee6u4z7r
+Dala_files/js
+Dala_files/saved_resource.html
